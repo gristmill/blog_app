@@ -1,0 +1,5 @@
+<%= form_for @comment do |f| %>
+  <%= f.hidden_field :post_id %>
+  <%= f.text_area :body %>
+  <%= f.submit "Submit", :disable_with => 'Submitting' %>
+<% end %>
