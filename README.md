@@ -310,23 +310,24 @@ You now have a working Ruby on Rails application!
 
 ## Resources
 
-Ruby on Rails has a vibrant community. The following people are
+Ruby on Rails has a vibrant community. The following people are pretty influential in the Rails community.
 
 ## Awesome Rails Core Developers
-David Heinemeier Hansson aka DHH http://twitter.com/dhh
-Yehuda Katz - http://yehudakatz.com/
-Jose Valim - plataformatec.com.br/
+
+- David Heinemeier Hansson aka DHH http://twitter.com/dhh
+- Yehuda Katz - http://yehudakatz.com/
+- Jose Valim - plataformatec.com.br/
 
 ## Community Members Involved with Rails Education
-Greg Pollack - http://envylabs.com and http://codeschool.com
-Ryan Bates - http://railscasts.com
-Peter Cooper - http://peterc.org/
+- Greg Pollack - http://envylabs.com and http://codeschool.com
+- Ryan Bates - http://railscasts.com
+- Peter Cooper - http://peterc.org/
 
 ## Great Resources for Learning Rails
-http://rubyonrails.org
-http://guides.rubyonrails.org
-http://railscasts.com
-http://rubygems.org
+- http://rubyonrails.org
+- http://guides.rubyonrails.org
+- http://railscasts.com
+- http://rubygems.org
 
 ## Educational Ruby and Rails Newsletter
-http://rubyweekly.com
+- http://rubyweekly.com
