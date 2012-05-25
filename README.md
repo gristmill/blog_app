@@ -316,7 +316,7 @@ Ruby on Rails has a vibrant community. The following people are pretty influenti
 
 - David Heinemeier Hansson aka DHH http://twitter.com/dhh
 - Yehuda Katz - http://yehudakatz.com/
-- Jose Valim - plataformatec.com.br/
+- Jose Valim - http://plataformatec.com.br/
 
 ## Community Members Involved with Rails Education
 - Greg Pollack - http://envylabs.com and http://codeschool.com
