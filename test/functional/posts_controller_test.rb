@@ -26,6 +26,10 @@ class PostsControllerTest < ActionController::TestCase
 
   test "should show post" do
     get :show, id: @post
+
+    assert assigns(:comments)
+    assert assigns(:comment)
+
     assert_response :success
   end
 
@@ -40,6 +44,7 @@ class PostsControllerTest < ActionController::TestCase
   end
 
   test "should destroy post" do
+
     assert_difference('Post.count', -1) do
       delete :destroy, id: @post
     end
